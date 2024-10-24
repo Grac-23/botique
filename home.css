@@ -1,0 +1,36 @@
+* {
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    opacity:10;
+}
+
+.bg-container {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/tasty-pizza-near-ingredients_23-2147772080.jpg?t=st=1728975744~exp=1728979344~hmac=e3167193de1103a6a10e55efe968d2970d3c1a1a86fa2f60a67a98eadd788e7e&w=1380");
+    text-align:center;
+
+}
+.food-head {
+    color:white;
+}
+.food-para {
+    color:white;
+}
+.get-button {
+    border:2px solid yellow;
+    background-color:transparent;
+    color:white;
+    padding:15px;
+    border-radius:15px;
+}
+.get-button:hover {
+    background-color:yellow;
+    color:black;
+}
+
+.food {
+    width:100%;
+    border-radius:50%;
+    padding:20px;
+}

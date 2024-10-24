@@ -1,0 +1,24 @@
+/* *{
+    background-color:black;
+} */
+
+.logo {
+    width:5rem;
+}
+.nav-link {
+    border:2px solid orange;
+    margin:10px;
+}
+.nav-link:hover{
+    background-color:orange;
+   
+}
+
+
+#background {
+    background-color:transparent;
+    color:white;
+}
+#items {
+    color:white;
+}
